@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋 Seja bem-vindo(a) ao meu perfil 
 
-<!--
-**Daniel-Baltazar/Daniel-Baltazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+### Sou professor de computação por formação 🎓. Desenvolvedor de software por paixão ❤️. Ampliando meus conhecimentos na área de desenvolvimento Full-stack com a Cubos Academy;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Atualmente estudando [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) e [API REST](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api);
+
+- ✉️ Você pode me contatar por [email](mailto:danielbaltazar59@gmail.com);
+
+
+
+
